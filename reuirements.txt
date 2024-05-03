@@ -1,0 +1,10 @@
+langchain
+unstructured[all-docs]
+pydantic
+lxml
+openai 
+tiktoken
+opencv-python
+google-generativeai
+faiss-cpu
+ragas
